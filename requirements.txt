@@ -1,1 +1,2 @@
 python-telegram-bot[job-queue]==21.6
+gTTS==2.5.3
